@@ -1,0 +1,27 @@
+# Compilados / artefatos
+*.class
+*.log
+*.tmp
+*.bak
+*.swp
+
+# NetBeans (Ant)
+build/
+dist/
+nbbuild/
+nbdist/
+nbproject/private/
+nbproject/Makefile-*
+**/private.properties
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# SO
+.DS_Store
+Thumbs.db
